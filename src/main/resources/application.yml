@@ -1,0 +1,9 @@
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+jwt:
+  secretKey: "This Data Must Be Managed By Secret NOT HERE THIS IS JUST EXAMPLE"
